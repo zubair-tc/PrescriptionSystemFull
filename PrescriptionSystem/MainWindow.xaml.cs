@@ -18,7 +18,7 @@ namespace PrescriptionSystem
     {
         public MainWindow()
         {
-            InitializeComponent();
+
         }
     }
 }

@@ -24,7 +24,6 @@
     <Folder Include="ViewModels\Auth\" />
     <Folder Include="ViewModels\Prescription\" />
     <Folder Include="ViewModels\Patient\" />
-    <Folder Include="Views\Auth\" />
     <Folder Include="Views\Medicine\" />
     <Folder Include="Views\Patient\" />
     <Folder Include="Views\Prescription\" />
